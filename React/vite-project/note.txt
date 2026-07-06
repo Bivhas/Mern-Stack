@@ -1,0 +1,4 @@
+1) React consider Tag as data
+2) We can store and return Tag
+3) functions can return only one Tag
+4) use {} inside tag to perform js operation(+,-,... variable call, )
